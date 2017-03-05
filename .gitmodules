@@ -1,0 +1,3 @@
+[submodule "friendly_train"]
+	path = friendly_train
+	url = https://indietyp@github.com/indietyp/friendly-train
